@@ -1,0 +1,2 @@
+class TimeMachine < ApplicationRecord
+end
